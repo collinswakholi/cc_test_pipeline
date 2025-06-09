@@ -1,6 +1,7 @@
 colour-science
-color-checker-detection
+colour-checker-detection
 opencv-python
+opencv-contrib-python
 scikit-learn
 scipy
 numpy
@@ -11,6 +12,5 @@ plotly
 matplotlib
 pandas
 difflib
-glob2  # Assuming you meant the `glob2` library for enhanced glob functionality, otherwise `glob` is a built-in module.
 statsmodels
 seaborn
