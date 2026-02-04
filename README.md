@@ -2,7 +2,7 @@
 
 Code repository for "A Color Correction Pipeline for Images in Controlled Environments." Contains scripts for running color correction experiments, extracting validation metrics, aggregating results, and generating visualizations.
 
-📦 **Full Dataset:** [HuggingFace](https://huggingface.co/datasets/CollinsW/ColorCorrectionPipeline_Dataset)
+📦 **Full Dataset:** [HuggingFace](https://huggingface.co/datasets/CollinsW/ColorCorrectionPipeline_Dataset) or at [NAL](https://doi.org/10.15482/USDA.ADC/31256776).
 
 **This was a rough workflow to test different scenarios for the pipeline.** A more finished Python pipeline can be found at [ColorCorrectionPackage](https://github.com/collinswakholi/ColorCorrectionPackage).
 
